@@ -312,7 +312,7 @@ Let's see the Onboarding Package Generator in action!
 
 ### Thank you for your attention!
 
-📧 Contact: [Your Email]
+📧 Contact: contact@example.com
 🔗 GitHub: https://github.com/Ashahet1/Onboarding_Package
 📚 Documentation: See README.md
 
